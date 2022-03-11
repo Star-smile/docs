@@ -14,7 +14,7 @@
 
 ### 产品流程图
 
-<img src="D:\菜谱\images\introduction.png" style="zoom:50%"/>
+<img src="https://sm.ms/image/GVnJ8f3OmkzdKtg"/>
 
 ### 主要技术
 
